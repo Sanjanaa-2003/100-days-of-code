@@ -1,0 +1,9 @@
+words=[
+"Jenny\t"
+"apple\t"
+"beautiful\t"
+"mango\t"
+"jayanti\t"
+"attitude\t"
+"aeroplane"
+]
